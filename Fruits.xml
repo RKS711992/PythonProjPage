@@ -1,11 +1,14 @@
-<Fruits>
-	<fr>Apple</fr>
-	<fr>Banana</fr>
-	<fr>Pumpkin</fr>
-	<fr>pineapple</fr>
-	<fr>berry</fr>
-	<fr>lychee</fr>
-	<fr>muskmelon</fr>
-	<fr>cherry</fr>
-	<fr>watermelon</fr>	
-</Fruits>
+<data>  
+	<items>
+		<item name="Fruit1">Apple</item>
+		<item name="Fruit2">Banana</item>
+		<item name="Fruit3">Lychee</item>
+		<item name="Fruit4">Muskmelon</item>
+		<item name="Fruit5">Cherry</item>
+		<item name="Fruit6">Watermelon</item>
+		<item name="Fruit7">Pineapple</item>
+		<item name="Fruit8">Berry</item>
+		<item name="Fruit9">Grapes</item>
+		<item name="Fruit10">Plum</item>		
+	</items>
+</data>  
